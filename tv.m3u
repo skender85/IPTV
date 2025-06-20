@@ -15,7 +15,7 @@ https://vtvapi03.sys.init7.net/api/live/?channel=a2776d37-e7c5-4be2-8801-ac500e0
 https://vtvapi03.sys.init7.net/api/live/?channel=eb0538fc-049a-4447-9d40-46809c5c54ef
 #EXTINF:-1 tvg-id="ElWatania1.tn@SD",El Watania 1
 https://fl1002.bozztv.com/ga-elwatania1/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" group-title="News (AR)",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -39,7 +39,14 @@ https://api.tv.init7.net/api/live/?channel=99a6aa98-e2d8-491f-b268-4103e928c916
 https://api.tv.init7.net/api/live/?channel=d1610d57-25e8-430b-b336-19ac539da877
 #EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" group-title="Germany",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-name="SCHLAGER DELUXE" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",SCHLAGER DELUXE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/1114_TV24.ch.png" tvg-name="TV24.ch" group-title="chde", TV 24
 https://api.tv.init7.net/api/live/?channel=8f9a650f-4f7a-4df3-8818-90c5a701a075
 #EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/1116_3Plus.ch.png" tvg-name="3plus.ch" group-title="chde", 3+ HD
