@@ -10,4 +10,4 @@ If you wish to have the content removed from the web entirely, please contact th
 Some Streams may not work due to ISP dependencies
 
 # Where do the streams come from?
-Googling and ohter Github published M3Us
+Publicly available streams mostly from other Github Repos
