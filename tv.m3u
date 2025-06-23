@@ -11,18 +11,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://api.tv.init7.net/media/logos/4308_BBCNews.uk.png" tvg-name="BBCNews.uk" group-title="uk", BBC News
-https://api.tv.init7.net/api/live/?channel=da99da3e-e97c-42c4-a4dd-3077df3cb6a3
-#EXTINF:-1 tvg-logo="https://api.tv.init7.net/media/logos/4312_CNNInternationalEurope.us.png" tvg-name="CNNInternationalEurope.us" group-title="us", CNN International
-https://api.tv.init7.net/api/live/?channel=0adfbec1-4acc-44e7-9391-a95ed0bf2094
-#EXTINF:-1 tvg-logo="https://api.tv.init7.net/media/logos/4316_CNBCEurope.uk.png" tvg-name="CNBCEurope.uk" group-title="uk", CNBC
-https://api.tv.init7.net/api/live/?channel=643b0267-00f1-4d18-8695-6d89743d5fe7
-#EXTINF:-1 tvg-logo="https://api.tv.init7.net/media/logos/4320_BloombergTVEurope.uk.png" tvg-name="BloombergTVEurope.uk" group-title="us", Bloomberg TV
-https://api.tv.init7.net/api/live/?channel=99a6aa98-e2d8-491f-b268-4103e928c916
-#EXTINF:-1 tvg-logo="https://api.tv.init7.net/media/logos/4328_EuronewsEnglish.fr.png" tvg-name="EuronewsEnglish.fr" group-title="uk", euronews E
-https://api.tv.init7.net/api/live/?channel=d1610d57-25e8-430b-b336-19ac539da877
-#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="News",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
